@@ -13,7 +13,7 @@ Summary:
 Use Asynchronous Apex:
 Completed on: 11 July 2025  
 Points Earned: 100  
-[Use Asynchronous Apex]([https://trailhead.salesforce.com/content/learn/modules/apex_basics_dotnet/mapping_concepts?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-platform-developer-i-credential](https://trailhead.salesforce.com/content/learn/modules/apex_basics_dotnet/async_apex?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-platform-developer-i-credential))
+[Use Asynchronous Apex](https://trailhead.salesforce.com/content/learn/modules/apex_basics_dotnet/async_apex?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-platform-developer-i-credential)
 
 Summary:
 - Learned three reasons are usually behind choosing asynchronous programming:
